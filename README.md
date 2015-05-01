@@ -12,3 +12,7 @@ Voeg voor iedere nieuwe requirement een specifieke unit test toe en werk deze st
 Zorg ervoor dat de verantwoordelijkheid voor de lijst met landcode's buiten de validator komt te liggen.
 
 **Denk erom:** RED -> GREEN -> REFACTOR
+
+## Links
+* [The Art of Unit Testing with Roy Osherove](http://hanselminutes.com/169/the-art-of-unit-testing-with-roy-osherove) Over Units, Fakes/Stubs/Mocks, Setup/Teardown/Refactor/Builder, naamgeving van testmethodes, etc.
+* [Craftsmanship and Ethics, Robert C. Martin](http://www.infoq.com/presentations/craftmanship-ethics) Vanaf 0:30:00 gaat het over TDD en de voordelen ervan.
